@@ -1,0 +1,7 @@
+﻿  functions.cpp
+D:\C++\FilesLaba\FilesLaba\functions.cpp(115,13): warning C4267: инициализация: преобразование из "size_t" в "int32_t"; возможна потеря данных
+D:\C++\FilesLaba\FilesLaba\functions.cpp(129,20): warning C4267: инициализация: преобразование из "size_t" в "int32_t"; возможна потеря данных
+D:\C++\FilesLaba\FilesLaba\functions.cpp(134,16): warning C4267: =: преобразование из "size_t" в "int32_t"; возможна потеря данных
+D:\C++\FilesLaba\FilesLaba\functions.cpp(234,19): warning C4267: инициализация: преобразование из "size_t" в "int32_t"; возможна потеря данных
+D:\C++\FilesLaba\FilesLaba\functions.cpp(235,38): warning C4267: return: преобразование из "size_t" в "int32_t"; возможна потеря данных
+  FilesLaba.vcxproj -> D:\C++\FilesLaba\x64\Debug\FilesLaba.exe
